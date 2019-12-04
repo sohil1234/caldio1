@@ -1,0 +1,11 @@
+{
+    "id" : "caldio",
+    "version" : "0.1.0",
+    "displayName" : "caldio Faction",
+    "description" : "Content related to caldio Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
